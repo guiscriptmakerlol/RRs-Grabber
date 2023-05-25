@@ -17,14 +17,12 @@ Python 3.10+.
 An active internet connection.
 
 
-
-
 HOW TO DOWNLOAD:
 
 
 Steps:
 
-FIRST DOWNLOAD THE FOLDER
+FIRST DOWNLOAD THE ZIP FOLDER AND EXTRACT IT THEN:
 
 Step 1, run requirements.bat
 
